@@ -1,4 +1,4 @@
-# kracker
+# kracker - modern password list generator
 Kracker: kaleem's password cracker,  an utility to generate modern strong and week password lists with several parameters using target specific information.
 ![Banner](https://raw.githubusercontent.com/cyberinspects/kracker/main/kracker.png)
 ## Feautures
