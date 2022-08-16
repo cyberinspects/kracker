@@ -21,12 +21,26 @@ python3 kracker.py
 
 ```
 #### Inputs:
-        First name:Kaleem                         {Target's first name}
-        Last name:Anwar                           {Target's last name}
-        Family name or Cast: doesn't matter       {Cast or family name like arain,mal,dogar,sharma,dhillion}
-        Partner's name: i don't have hehe         {Cast or family name like arain,mal,dogar,sharma,dhillion}
-        Partner's name: i don't have hehe         {Cast or family name like arain,mal,dogar,sharma,dhillion}
-        
+        Firstname: kaleem                         
+                                                       { Target's first name }
+        Last name:Anwar                           
+                                                       { Target's last name }
+        Partner's name: i don't have hehe         
+                                                       { Cast or family name like arain,mal,dogar,sharma,dhillion }
+        Date of birth dd/mm/yyyy: 10/02/2002
+                                                       { Date of birth of the target }
+        Family name or Cast: doesn't matter                      
+                                                       {Cast or family name like arain,mal,dogar,sharma,dhillion}
+        Any Extra words: hacker,pentester,gurdian      
+                                                       { Any words that he most frequently uses, +_related to his passion }
+        Religious words: Allah, God, Muhammad
+                                                       { Words most commonly used among the people of his reglion/regious believes }
+        Do you want to add character to digit translation like Aoi=401
+                Enter 's' for short translation and 'l' for long tanslation: s
+                                                       { Alphabatic character to digit translations }
+        Do you want to include common word list(yes/no): yes
+                                                       { 200 world wide commonly used password, (yes/no) }
+                                                      
 ## Author
 # Kaleem Ibn Anwar
 ```
