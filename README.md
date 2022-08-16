@@ -1,6 +1,6 @@
 # kracker
 Kracker: kaleem's password cracker,  an utility to generate modern strong and week password lists with several parameters using target specific information.
-
+![Banner](https://raw.githubusercontent.com/cyberinspects/kracker/main/kracker.png)
 ## Feautures
 1. Completely commad-line tool, easy to integrate in your bash or python scripts
 2. Don't generate the heavy and irrevelent passwords
